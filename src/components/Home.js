@@ -9,16 +9,11 @@ const Home = () => {
                     <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/iphoto/ios15-iphone13-pro-home-camera-callout.png" alt="txt"/>
                 </div>
                 <div className="text-wrapper item">
-                    <span>
-                        I-Phone
-                    </span>
-                    <span>
-                        Price: $1000.00
-                    </span>
+                    <span>  I-Phone</span>
+                    <span> Price: $1000.00</span>
                 </div>
                 <div className="btn-wrapper item">
-                    <button>
-                        Add To Cart</button>
+                    <button> Add To Cart</button>
                 </div>
             </div>
     </div>
