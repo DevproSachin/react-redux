@@ -5,7 +5,7 @@ const User = (props) => {
     <div>
          <h1>User Component</h1>
          <h2>{data.name}</h2>
-         <h2>{data.age}</h2>
+         <h2>{data.year}</h2>
     </div>
   )
 }
