@@ -13,7 +13,7 @@ const Home = () => {
                     <span> Price: $1000.00 </span>
                 </div>
                 <div className="btn-wrapper item">
-                    <button> Add To Cart </button>
+                    <button> Add to cart </button>
                 </div>
             </div>
     </div>
