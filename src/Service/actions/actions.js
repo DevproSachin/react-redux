@@ -5,3 +5,9 @@ export const addtocart = (data) =>{
        data:data
   }
 }
+
+
+
+
+
+
